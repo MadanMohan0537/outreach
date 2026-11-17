@@ -10,7 +10,7 @@ description: >-
 
 This is the method published by Backdoor ([@textbackdoor](https://x.com/textbackdoor) on X, [backdoorai.app](https://backdoorai.app)), condensed from its posts and blog. In one line: send a short, specific email to the founder that opens with their news or a problem you actually worked on, gives one proof with a number, says why this startup, and makes one small ask. Then follow up in the same thread with something new. Do it by hand for a short list of early-stage companies, often before the job is posted.
 
-Sources: [cold email templates](https://backdoorai.app/cold-email-templates), [how to cold email a founder](https://backdoorai.app/blog/how-to-cold-email-a-startup-founder), [how to follow up](https://backdoorai.app/blog/follow-up-email-founder-no-reply), [interview guide](https://backdoorai.app/blog/how-to-land-interviews-at-early-stage-startups), [the 15-minute cold email](https://backdoorai.app/blog/the-15-minute-cold-email), [most startup jobs are never posted](https://backdoorai.app/blog/most-startup-jobs-are-never-posted), [OPT guide](https://backdoorai.app/guides/cold-email-founder-opt), [founder reply rates](https://backdoorai.app/research/founder-reply-rates).
+Sources: [cold email templates](https://backdoorai.app/cold-email-templates), [how to cold email a founder](https://backdoorai.app/blog/how-to-cold-email-a-startup-founder), [how to follow up](https://backdoorai.app/blog/follow-up-email-founder-no-reply), [interview guide](https://backdoorai.app/blog/how-to-land-interviews-at-early-stage-startups), [the 15-minute cold email](https://backdoorai.app/blog/the-15-minute-cold-email), [most startup jobs are never posted](https://backdoorai.app/blog/most-startup-jobs-are-never-posted), [OPT guide](https://backdoorai.app/guides/cold-email-founder-opt), [founder reply rates](https://backdoorai.app/research/founder-reply-rates), [Nov 17, 2026 playbook post](https://x.com/textbackdoor/status/2122521297192411398).
 
 ## Ground rules for the assistant
 - Outreach goes out under the user's name. Draft every email or DM for the user to review and send. Never send on your own.
@@ -26,8 +26,9 @@ Sources: [cold email templates](https://backdoorai.app/cold-email-templates), [h
   - The founder posted "we're hiring", "stretched thin", or "know anyone who...".
   - A careers page just appeared.
 - Favor startups in the same domain as work the user has already done; 10 relevant startups beat 500 generic ones ([Nov 15, 2026 thread](https://x.com/textbackdoor/status/2121836844656791854)).
-- A growing startup is enough; a job post is not required. Use job boards only to see who is hiring.
-- For each company, record why it fits and the specific recent news to open with. If there's no real hook, skip that founder for now.
+- Growth is the signal, not a job post: look for startups that raised money or grew in the last 12 months (seed to Series B in the [Nov 17, 2026 post](https://x.com/textbackdoor/status/2122521297192411398)). No open role is needed. Use job boards only to see who is hiring.
+- Where to find them: funding news, YC batch lists, "we're hiring" posts on X, and Product Hunt launches from this year.
+- For each company, record the founder's name, what they shipped recently, why it fits, and one thing the user could take off the founder's plate. If there's no real hook, skip that founder for now.
 
 ## 2. Find the right person
 - Write to the founder, or to whoever would be the user's boss. Skip HR, `careers@`, and application forms.
@@ -57,20 +58,29 @@ Put these in order:
 3. **Why this startup:** one sentence.
 4. **One yes or no ask:** usually "Would 15 minutes [day] work?" A referral is also a fine single ask.
 
+A second shape Backdoor posted on Nov 17, 2026 runs 80 to 150 words: the subject is the role plus the company, nothing clever. Line 1 is why them, meaning something they shipped in the last few months. Line 2 is your guess at what's hard for them right now. Lines 3 and 4 each give one proof with a number ("cut load time 40%", not "strong engineer"). The last line asks for a 15-minute call. Use the short version when there's a fresh founder post to react to, and this one when you're opening from something they shipped.
+
 Make the subject specific and plain (for example "Retry reproduction for [product]"). Send from the user's own Gmail, and link to the resume rather than attaching it.
 
 For a visa situation (OPT, F-1, H-1B), add one factual line after the proof. Keep it out of the subject, and don't apologize for it.
 
 Founders read on their phone, so cut anything that needs scrolling. In the account's own example, a 186-word email got told off and a 69-word one got an offer.
 
-## 5. Follow up
+## 5. Send steadily and early
+- Work through about 10 new founders a day, every day.
+- Be early. In Backdoor's data, the first person to email a founder gets about 3 times the replies of the fifth (5.8% against 2.0%), so write soon after the funding news or launch.
+
+## 6. Follow up
 - Always reply in the same thread, and always add something new: a finding, a fix, or a mockup. Never write "just checking in".
+- Don't skip it: in Backdoor's data, 2 in 3 founder replies came after a follow-up (619 of 971).
 - Default cadence: one follow-up about 4 days after the first email. An optional last note around day 11 offers a small scoped trial and closes with "if not, I'll leave it here." Then move on.
+- The Nov 17, 2026 post gives a faster version: a one-line bump on day 3, one new piece of proof on day 7, then stop. Either is fine; never go past two follow-ups.
 - Don't nudge the next day, open a new thread, guilt-trip, re-attach the resume, or message on every channel at once. One LinkedIn connection request with a short note is fine.
 - Stop as soon as they reply. Don't follow up after a no.
 
-## 6. After a reply
-- **On a yes:** bring a 30-day plan to the call that says what you'd measure, fix, and ship first. Ask about runway, what success looks like in 3 months, and who you'd work with. Settle pay, hours, deliverables, and the decision date before doing any trial work.
+## 7. After a reply
+- Answer within the hour. "Founders move fast and forget faster."
+- **On a yes:** ask what they'd want done in your first 30 days, and show up to the call with a rough version of it: a 30-day plan that says what you'd measure, fix, and ship first. Ask about runway, what success looks like in 3 months, and who you'd work with. Settle pay, hours, deliverables, and the decision date before doing any trial work.
 - **On a no:** within a day, thank them, then ask for one other founder with the same problem, plus a line they can forward.
 
 ## Avoid
@@ -85,7 +95,7 @@ Founders read on their phone, so cut anything that needs scrolling. In the accou
 - "Respected Sir/Ma'am". Use the founder's first name.
 
 ## What to expect
-Backdoor reports 9 in 10 first replies within two weeks, and about 3 in 10 replies arriving after a follow-up. One user's run went from 76 emails to 14 replies to 3 calls to 1 offer. Silence on about 4 in 5 emails is normal.
+Backdoor's Nov 17, 2026 numbers: about 1 in 13 founders reply (971 replies from 13,016 first emails), and about 1 in 3 of those ask for a call. At 10 a day for 5 days, 50 emails usually means about 4 replies and 1 or 2 calls a week. Over 4 weeks that's about 15 replies and 5 calls, and you need one yes. Its earlier research page said 9 in 10 first replies come within two weeks and about 3 in 10 come after a follow-up; the newer 2-in-3 figure comes from a larger set, so prefer it. One user's run went from 76 emails to 14 replies to 3 calls to 1 offer. Silence on most emails is normal.
 
 ## Deliverable for the user
 For each target, give:
@@ -93,6 +103,6 @@ For each target, give:
 - the founder's name and the email you found, with where you found it
 - the proof-work idea
 - the draft email
-- the day-4 follow-up
+- the follow-ups (day 4 and day 11, or day 3 and day 7)
 
 Track each company's status: drafted, sent by the user, follow-up due, replied, or closed.

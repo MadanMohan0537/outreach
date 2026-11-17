@@ -783,3 +783,55 @@ Source: [thread](https://x.com/textbackdoor/status/2121836844656791854). Quoted 
 - "4. bonus: if you want set templates of cold emails that have gotten replies and/or want to get more details on each step:" with a t.co link ([post](https://x.com/textbackdoor/status/2121836845722218663))
 
 New relative to earlier notes: target selection by matching your past work's domain; free founder-email lists on Reddit/X as a fallback (sits in tension with their Oct 18 "verify, don't guess" advice); a referral as an acceptable single ask.
+
+## 14. Addendum: Nov 17, 2026 post, "Fastest way to a startup job without applying anywhere"
+
+Source: [post](https://x.com/textbackdoor/status/2122521297192411398), Nov 16, 2026, 9:44 PM ET, with four phone-note screenshots. Transcribed below.
+
+**target**
+- startups that raised or grew in the last 12 months. seed to series B. the founder still reads their own inbox
+- growth is the signal, NOT a job post. you don't need an open role
+- pick your lane: same domain as something you already built. 10 relevant startups beat 500 random ones
+
+**finding them**
+- funding news, YC batch lists, "we're hiring" posts on X, product hunt launches from this year
+- for each one: the founder's name, what they shipped recently, one thing you could take off their plate
+
+**the email**
+- to the FOUNDER. not careers@, not HR, not a form
+- subject: the role + the company. nothing clever
+- line 1: why them. something they shipped in the last few months
+- line 2: your guess at what's hard for them right now
+- line 3-4: proof, one line each. numbers > adjectives. "cut load time 40%" not "strong engineer"
+- last line: one ask. a 15 min call
+- 80-150 words. plain text. NO cover letter energy
+
+**sending**
+- 10 new founders a day. every day. that's the whole job
+- be early. the first person to email a founder gets ~3x the replies of the fifth (5.8% vs 2.0%)
+
+**follow ups**
+- this is where everyone quits
+- 2 out of 3 founder replies come AFTER a follow-up (619 of 971 in our data)
+- day 3: one line bump. day 7: one new piece of proof. then stop
+
+**the math**
+- ~1 in 13 founders reply (971 replies from 13,016 first emails)
+- ~1 in 3 of those ask for a call
+- 10/day × 5 days = 50 emails -> ~4 replies -> 1-2 calls a week
+- 4 weeks = ~15 replies, ~5 calls
+- you need ONE yes
+
+**when they reply**
+- answer the same hour. founders move fast and forget faster
+- ask what they'd want done in your first 30 days. show up to the call with a rough version of it
+
+**the hard part**
+- finding the startups + the founder + writing each email from scratch is hours a day. it's where people stop
+- the post closes by promoting textbackdoor.com, which takes your LinkedIn and finds startups, the founder, and a first email ([match page](https://backdoorai.app/match)). This is Backdoor's own product pitch.
+
+**How this differs from earlier posts**
+- Stage: seed to Series B here, against pre-seed to Series C on the homepage.
+- Length and subject: 80–150 words with a role-plus-company subject, against the under-100-word "Your post on [topic]" template.
+- Follow-up: day 3 bump and day 7 proof, against day 4 and day 11.
+- Follow-up share: 2 in 3 replies after a follow-up (619 of 971), against about 3 in 10 on the earlier research page.
