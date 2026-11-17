@@ -1,6 +1,8 @@
 # @textbackdoor startup outreach method
 
-Researched from the public X account and the pages it links, on Saturday, Nov 14, 2026 (America/New_York). Nothing here is invented. Where the account published more than one cadence or word-count rule, each version is quoted with its date and URL rather than merged into one "official" rule.
+**Current method:** [`SKILL.md`](SKILL.md) is the operating playbook. Last refreshed: 2026-11-17. This file is the dated research record. Where posts disagree with each other, follow `SKILL.md`.
+
+Researched from the public X account and the pages it links, on Saturday, Nov 14, 2026 (America/New_York), with later posts added below. Nothing here is invented. Where the account published more than one cadence or word-count rule, each version is quoted with its date and URL rather than merged into one "official" rule.
 
 No messages were posted, no accounts were followed or DMed, and no one was contacted.
 
